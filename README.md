@@ -1,4 +1,4 @@
-# AWS Mini Project: Cost Optimization & Budget Alerting
+# AWS Mini Project: Cost Optimization & Budget Alerting.
 
 # Overview
 This project demonstrates how to monitor AWS costs using AWS Budgets and receive alerts via SNS when spending exceeds a defined threshold.
